@@ -1,6 +1,6 @@
 ---
 name: Rabimba Karanjai
-image: images/rabimba.heic
+image: images/rabimba.jpg
 role: phd
 # group: alum
 links:
