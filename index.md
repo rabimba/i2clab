@@ -1,9 +1,9 @@
 ---
 ---
 
-# rabimba's Website
+# I2C Lab
 
-An engaging 1-3 sentence description of your lab.
+The I2C lab at the University of Houston is led by Dr. Larry Shi, an associate professor of computer science and electrical and computer engineering. The lab focuses on solving real-world challenging problems with innovations in software engineering, software testing and analysis, cyber-physical systems, AI, and functional reactive programming. The lab collaborates with industry partners such as Nokia, Motorola, NVIDIA, and EA to create cutting-edge solutions for various domains. The lab also provides opportunities for students to participate in research projects and learn from experienced mentors.
 
 {% include section.html %}
 
