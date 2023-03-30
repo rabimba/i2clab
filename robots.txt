@@ -1,0 +1,1 @@
+Sitemap: /i2clab/sitemap.xml
