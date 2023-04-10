@@ -1,5 +1,5 @@
 ---
-name: Weidong (Larry) Shi
+name: Weidong Shi
 image: images/photo.jpg
 role: Associate Professor
 # aliases:
