@@ -7,21 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Computer Science Department
+University of Houston
+501 Philip G. Hoffman Hall
+Houston, TX 77204-3010
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="wshi3@uh.edu"
+  link="wshi3@uh.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="713 743 3045"
+  link="+1-713 743 3045"
 %}
 {%
   include button.html
