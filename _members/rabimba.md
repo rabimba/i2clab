@@ -1,12 +1,14 @@
 ---
 name: Rabimba Karanjai
-image: images/photo.jpg
+image: images/rabimba.jpg
 role: phd
 # group: alum
 links:
+  home-page: https://rabimba.me
   github: rabimba
   email: rabimba@rabimba.me
   twitter: rabimba
+  orcid: 0000-0002-6705-6506
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Chagolchanar charte pa
