@@ -1,6 +1,6 @@
 ---
 name: Weidong Shi
-image: images/photo.jpg
+image: http://aidao.finance/assets/img/team/shi.jpg
 role: Associate Professor
 # aliases:
 #   - J. Smith
